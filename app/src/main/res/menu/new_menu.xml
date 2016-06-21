@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/menuCars"
+            android:orderInCategory="100"
+            android:title="Cars"
+            />
+        <item
+            android:id="@+id/menuMobiles"
+            android:orderInCategory="100"
+            android:title="Mobiles"
+            />
+        <item
+            android:id="@+id/menuBooks"
+            android:title="Books" >
+            <menu>
+                <item android:id="@+id/bookMalayalam"
+                    android:title="Malayalam"
+                    />
+                <item android:id="@+id/bookEnglish"
+                    android:title="English"
+                    />
+            </menu>
+        </item>
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="enter_username">Enter UserName</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="button_send">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_rateapp">Rate this App</string>
+</resources>
